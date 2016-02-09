@@ -1,7 +1,6 @@
 /* 
 By Michael Owens
 */
-package cracking;
 
 import java.util.*;
 
@@ -33,7 +32,7 @@ public class isUnique {
 	}
 	
 	public static void main(String[] args){
-		
+		System.out.println("HelloWorld!");
 		//reading user input
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter string:");
